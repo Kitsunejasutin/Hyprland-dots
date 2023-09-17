@@ -60,6 +60,7 @@ wlsunset
 fonts=(
 adobe-source-code-pro-fonts 
 noto-fonts-emoji
+noto-fonts-cjk
 otf-font-awesome 
 otf-font-awesome-4 
 ttf-droid 
