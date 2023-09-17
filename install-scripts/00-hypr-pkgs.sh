@@ -23,6 +23,7 @@ network-manager-applet
 pamixer 
 pavucontrol
 pipewire-alsa 
+gst-plugin-pipewire
 playerctl
 polkit-kde-agent 
 python-requests 
