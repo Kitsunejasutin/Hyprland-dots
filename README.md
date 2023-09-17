@@ -1,4 +1,4 @@
-### A re-structured install script of my Hyprland-v3 [`Link`](https://github.com/JaKooLit/Hyprland-v3)
+### A install script base on ['JaKooLit Hyperland-v4'](https://github.com/JaKooLit/Hyprland-v4)
 
 ![alt text](https://github.com/JaKooLit/Ja-Hyprland/blob/main/screenshots/Sample-Tokyo-waybar.png "Default")
 
@@ -8,23 +8,15 @@
 
 #### youtube video showcase: [`Youtube Link`](https://youtu.be/otda1nXJ5Dg?si=Wbb8eg-u3Y-tDnDQ)
 
-### ✨  What's new compared to my V3
+### ✨  What's new compared to JaKooLit's Hyperland-v4
 
-- restructured Install script
--  Can modify the packages easily. (install-scripts/00-hypr-pkgs.sh) edit as desired
--  Added Tokyo-night-theme and TokyoNight-SE icons
--  using dunst instead of mako
--  Added Tokyo-Night SDDM Theme 
--  Use a wofi-power menu instead of wlogout
--  Added the following: 
-    - a. mission center (windows like task manager) - right click on cpu waybar module
-    - b. nvtop - right click on temperature waybar module
+- Fixed Audio Controls as per my machine
 
 ### ✨ to run
 > clone this repo by using git. Change directory, make executable and run the script
 ```bash
-git clone https://github.com/JaKooLit/Hyprland-v4.git
-cd Hyprland-v4
+git clone https://github.com/Kitsunejasutin/Hyprland-dots.git
+cd Hyprland-dots
 chmod +x install-v4.sh
 ./install-v4.sh
 ```
@@ -45,10 +37,6 @@ source ~/.zshrc
 - go through the keybinds. There are alot of hidden features like dual panel, change waybar styles, change wallpaper, etc... its too long to put all in the readme!!!
 
 ### ✨ Roadmap:
-- [ ] Install zsh and oh-my-zsh without necessary steps above
-- [ ] possibly adding gruvbox themes, cursors, icons
-- [ ] adding vertical waybar 
-- [X] ~~Use kitty in favor of foot~~ - Dropped the idea of kitty. Kitty is using twice memory compared to foot.
 
 ### ✨ some known issues
 - reports from members of my discord, states that some users of nvidia are getting stuck on sddm login. credit  to @Kenni Fix stated was 
