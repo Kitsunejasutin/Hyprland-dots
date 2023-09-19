@@ -9,6 +9,7 @@
 # add packages wanted here
 Extra=(
 google-chrome-bin
+imagemagick
 )
 
 hypr_package=( 
