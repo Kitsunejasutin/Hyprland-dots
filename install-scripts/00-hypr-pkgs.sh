@@ -8,7 +8,7 @@
 
 # add packages wanted here
 Extra=(
-
+google-chrome-bin
 )
 
 hypr_package=( 
