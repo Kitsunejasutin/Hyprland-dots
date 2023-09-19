@@ -173,6 +173,7 @@ fi
 
 if [ "$dots" == "Y" ]; then
     execute_script "dotfiles.sh" "$(pwd)"
+    execute_script "fonts.sh" "$(pwd)"
 
 fi
 
