@@ -1,12 +1,12 @@
 ### A install script base on ['JaKooLit Hyperland-v4'](https://github.com/JaKooLit/Hyprland-v4)
 
-![alt text](https://github.com/JaKooLit/Ja-Hyprland/blob/main/screenshots/Sample-Tokyo-waybar.png "Default")
+![alt text](https://github.com/Kitsunejasutin/Hyprland-dots/blob/main/screenshots/desktop-1.png "Default")
 
 ![alt text](https://github.com/JaKooLit/Ja-Hyprland/blob/main/screenshots/dual-panel-light-dark-switch.png "Default")
 
 #### you can find more screenshots in the screenshots directory
 
-#### youtube video showcase: [`Youtube Link`](https://youtu.be/otda1nXJ5Dg?si=Wbb8eg-u3Y-tDnDQ)
+#### JaKooLit's youtube video showcase: [`Youtube Link`](https://youtu.be/otda1nXJ5Dg?si=Wbb8eg-u3Y-tDnDQ)
 
 ### ✨  What's new compared to JaKooLit's Hyperland-v4
 
