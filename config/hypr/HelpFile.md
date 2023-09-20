@@ -8,7 +8,7 @@
 
 # common operations
   Super          h        *keyhint* (THIS DOCUMENT)
-  Super          Return   *term* (`foot`)
+  Super          Return   *term* (`kitty`)
   Super          q        *quit* (kill focused window)
   Super   Shift  q        *quit* (kill focused window)
   Super          d        *show app menu* (`wofi small`)

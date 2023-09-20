@@ -15,7 +15,6 @@ imagemagick
 hypr_package=( 
 cliphist
 dunst 
-foot
 grim 
 gvfs 
 gvfs-mtp 
