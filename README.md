@@ -11,6 +11,7 @@
 ### ✨  What's new compared to JaKooLit's Hyperland-v4
 
 - Fixed Audio Controls as per my machine
+- Neofetch Config
 
 ### ✨ to run
 > clone this repo by using git. Change directory, make executable and run the script
@@ -37,9 +38,12 @@ source ~/.zshrc
 - go through the keybinds. There are alot of hidden features like dual panel, change waybar styles, change wallpaper, etc... its too long to put all in the readme!!!
 
 ### ✨ Roadmap:
+- [ ] Better default oh-my-zsh theme
+- [ ] Waybar themes depends on the wallpaper
+- [ ] Moar Wallpapers~
 
 ### ✨ some known issues
-- reports from members of my discord, states that some users of nvidia are getting stuck on sddm login. credit  to @Kenni Fix stated was 
+- reports from members of JaKooLit's discord, states that some users of nvidia are getting stuck on sddm login. credit  to @Kenni Fix stated was 
 ```  
  while in sddm press ctrl+alt+F2 or F3
 log into your account
