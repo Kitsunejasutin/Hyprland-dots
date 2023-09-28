@@ -14,9 +14,9 @@
 - Neofetch Config
 
 ### ✨ to run
-> clone this repo by using git. Change directory, make executable and run the script
+> clone this tests repo by using git. Change directory, make executable and run the script
 ```bash
-git clone https://github.com/Kitsunejasutin/Hyprland-dots.git
+git clone https://github.com/Kitsunejasutin/Hyprland-dots.git -b tests
 cd Hyprland-dots
 chmod +x install-v4.sh
 ./install-v4.sh
